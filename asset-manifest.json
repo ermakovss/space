@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ermakovss/space.git/static/css/main.cb7da2ca.css",
-    "main.js": "/ermakovss/space.git/static/js/main.3a3c203a.js",
-    "static/media/background.jpg": "/ermakovss/space.git/static/media/background.2f43efcf67f117ccd447.jpg",
-    "static/media/logo.png": "/ermakovss/space.git/static/media/logo.c9bb5d4e43b7ff19306c.png",
-    "index.html": "/ermakovss/space.git/index.html",
-    "main.cb7da2ca.css.map": "/ermakovss/space.git/static/css/main.cb7da2ca.css.map",
-    "main.3a3c203a.js.map": "/ermakovss/space.git/static/js/main.3a3c203a.js.map"
+    "main.css": "/ermakovss.github.io/space.git/static/css/main.188e11d7.css",
+    "main.js": "/ermakovss.github.io/space.git/static/js/main.c7f6cd6a.js",
+    "static/media/background.jpg": "/ermakovss.github.io/space.git/static/media/background.2f43efcf67f117ccd447.jpg",
+    "static/media/logo.png": "/ermakovss.github.io/space.git/static/media/logo.c9bb5d4e43b7ff19306c.png",
+    "index.html": "/ermakovss.github.io/space.git/index.html",
+    "main.188e11d7.css.map": "/ermakovss.github.io/space.git/static/css/main.188e11d7.css.map",
+    "main.c7f6cd6a.js.map": "/ermakovss.github.io/space.git/static/js/main.c7f6cd6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb7da2ca.css",
-    "static/js/main.3a3c203a.js"
+    "static/css/main.188e11d7.css",
+    "static/js/main.c7f6cd6a.js"
   ]
 }
